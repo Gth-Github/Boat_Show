@@ -1,0 +1,51 @@
+E:\VS2013 Space\Data_Change\Data_Change\bin\Debug\Data_Change.exe.config
+E:\VS2013 Space\Data_Change\Data_Change\bin\Debug\Data_Change.exe
+E:\VS2013 Space\Data_Change\Data_Change\bin\Debug\Data_Change.pdb
+E:\VS2013 Space\Data_Change\Data_Change\bin\Debug\Interop.PROGRESSBLib.dll
+E:\VS2013 Space\Data_Change\Data_Change\bin\Debug\Interop.SPEEDLib.dll
+E:\VS2013 Space\Data_Change\Data_Change\bin\Debug\AxInterop.PROGRESSBLib.dll
+E:\VS2013 Space\Data_Change\Data_Change\bin\Debug\AxInterop.SPEEDLib.dll
+E:\VS2013 Space\Data_Change\Data_Change\obj\Debug\Interop.PROGRESSBLib.dll
+E:\VS2013 Space\Data_Change\Data_Change\obj\Debug\Interop.SPEEDLib.dll
+E:\VS2013 Space\Data_Change\Data_Change\obj\Debug\AxInterop.PROGRESSBLib.dll
+E:\VS2013 Space\Data_Change\Data_Change\obj\Debug\AxInterop.SPEEDLib.dll
+E:\VS2013 Space\Data_Change\Data_Change\obj\Debug\Data_Change.csproj.ResolveComReference.cache
+E:\VS2013 Space\Data_Change\Data_Change\obj\Debug\Data_Change.Form1.resources
+E:\VS2013 Space\Data_Change\Data_Change\obj\Debug\Data_Change.Properties.Resources.resources
+E:\VS2013 Space\Data_Change\Data_Change\obj\Debug\Data_Change.csproj.GenerateResource.Cache
+E:\VS2013 Space\Data_Change\Data_Change\obj\Debug\Data_Change.exe
+E:\VS2013 Space\Data_Change\Data_Change\obj\Debug\Data_Change.pdb
+E:\VS2013 Space\Data_Change\Data_Change\bin\Debug\Interop.ATTACHBITMAPLib.dll
+E:\VS2013 Space\Data_Change\Data_Change\bin\Debug\Interop.HAIKUANGLib.dll
+E:\VS2013 Space\Data_Change\Data_Change\bin\Debug\AxInterop.ATTACHBITMAPLib.dll
+E:\VS2013 Space\Data_Change\Data_Change\bin\Debug\AxInterop.HAIKUANGLib.dll
+E:\VS2013 Space\Data_Change\Data_Change\obj\Debug\Interop.ATTACHBITMAPLib.dll
+E:\VS2013 Space\Data_Change\Data_Change\obj\Debug\Interop.HAIKUANGLib.dll
+E:\VS2013 Space\Data_Change\Data_Change\obj\Debug\AxInterop.ATTACHBITMAPLib.dll
+E:\VS2013 Space\Data_Change\Data_Change\obj\Debug\AxInterop.HAIKUANGLib.dll
+I:\新建文件夹\研究生学习资料\7.11C#完善版1\Data_Change\Data_Change\bin\Debug\Data_Change.exe.config
+I:\新建文件夹\研究生学习资料\7.11C#完善版1\Data_Change\Data_Change\obj\Debug\Interop.ATTACHBITMAPLib.dll
+I:\新建文件夹\研究生学习资料\7.11C#完善版1\Data_Change\Data_Change\obj\Debug\Interop.HAIKUANGLib.dll
+I:\新建文件夹\研究生学习资料\7.11C#完善版1\Data_Change\Data_Change\obj\Debug\Interop.PROGRESSBLib.dll
+I:\新建文件夹\研究生学习资料\7.11C#完善版1\Data_Change\Data_Change\obj\Debug\Interop.SPEEDLib.dll
+I:\新建文件夹\研究生学习资料\7.11C#完善版1\Data_Change\Data_Change\obj\Debug\AxInterop.ATTACHBITMAPLib.dll
+I:\新建文件夹\研究生学习资料\7.11C#完善版1\Data_Change\Data_Change\obj\Debug\AxInterop.HAIKUANGLib.dll
+I:\新建文件夹\研究生学习资料\7.11C#完善版1\Data_Change\Data_Change\obj\Debug\AxInterop.PROGRESSBLib.dll
+I:\新建文件夹\研究生学习资料\7.11C#完善版1\Data_Change\Data_Change\obj\Debug\AxInterop.SPEEDLib.dll
+I:\新建文件夹\研究生学习资料\7.11C#完善版1\Data_Change\Data_Change\obj\Debug\Data_Change.csproj.ResolveComReference.cache
+I:\新建文件夹\研究生学习资料\7.11C#完善版1\Data_Change\Data_Change\obj\Debug\Data_Change.exe
+I:\新建文件夹\研究生学习资料\7.11C#完善版1\Data_Change\Data_Change\obj\Debug\Data_Change.pdb
+I:\新建文件夹\研究生学习资料\7.11C#完善版1\Data_Change\Data_Change\bin\Debug\Data_Change.exe
+I:\新建文件夹\研究生学习资料\7.11C#完善版1\Data_Change\Data_Change\bin\Debug\Data_Change.pdb
+I:\新建文件夹\研究生学习资料\7.11C#完善版1\Data_Change\Data_Change\bin\Debug\Interop.ATTACHBITMAPLib.dll
+I:\新建文件夹\研究生学习资料\7.11C#完善版1\Data_Change\Data_Change\bin\Debug\Interop.HAIKUANGLib.dll
+I:\新建文件夹\研究生学习资料\7.11C#完善版1\Data_Change\Data_Change\bin\Debug\Interop.PROGRESSBLib.dll
+I:\新建文件夹\研究生学习资料\7.11C#完善版1\Data_Change\Data_Change\bin\Debug\Interop.SPEEDLib.dll
+I:\新建文件夹\研究生学习资料\7.11C#完善版1\Data_Change\Data_Change\bin\Debug\AxInterop.ATTACHBITMAPLib.dll
+I:\新建文件夹\研究生学习资料\7.11C#完善版1\Data_Change\Data_Change\bin\Debug\AxInterop.HAIKUANGLib.dll
+I:\新建文件夹\研究生学习资料\7.11C#完善版1\Data_Change\Data_Change\bin\Debug\AxInterop.PROGRESSBLib.dll
+I:\新建文件夹\研究生学习资料\7.11C#完善版1\Data_Change\Data_Change\bin\Debug\AxInterop.SPEEDLib.dll
+I:\新建文件夹\研究生学习资料\7.11C#完善版1\Data_Change\Data_Change\obj\Debug\Data_Change.csprojResolveAssemblyReference.cache
+I:\新建文件夹\研究生学习资料\7.11C#完善版1\Data_Change\Data_Change\obj\Debug\Data_Change.Form1.resources
+I:\新建文件夹\研究生学习资料\7.11C#完善版1\Data_Change\Data_Change\obj\Debug\Data_Change.Properties.Resources.resources
+I:\新建文件夹\研究生学习资料\7.11C#完善版1\Data_Change\Data_Change\obj\Debug\Data_Change.csproj.GenerateResource.Cache
