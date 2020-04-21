@@ -1,0 +1,223 @@
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\bin\Debug\Boat_FromNet.exe.config
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\bin\Debug\Boat_FromNet.exe
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\bin\Debug\Boat_FromNet.pdb
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.csproj.ResolveComReference.cache
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.Form1.resources
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.Properties.Resources.resources
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.csproj.GenerateResource.cache
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.csproj.CoreCompileInputs.cache
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.exe
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.pdb
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\bin\Debug\Interop.BOATLOCATIONLib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\bin\Debug\AxInterop.BOATLOCATIONLib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.BOATLOCATIONLib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.BOATLOCATIONLib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\bin\Debug\Interop.COMPASSLib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\bin\Debug\Interop.RATEOFTURNLib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\bin\Debug\Interop.RPMLib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\bin\Debug\Interop.RUDERANGLELib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\bin\Debug\Interop.STARTAIRLib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\bin\Debug\AxInterop.COMPASSLib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\bin\Debug\AxInterop.RATEOFTURNLib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\bin\Debug\AxInterop.RPMLib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\bin\Debug\AxInterop.RUDERANGLELib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\bin\Debug\AxInterop.STARTAIRLib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.COMPASSLib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.RATEOFTURNLib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.RPMLib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.RUDERANGLELib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.STARTAIRLib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.COMPASSLib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.RATEOFTURNLib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.RPMLib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.RUDERANGLELib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.STARTAIRLib.dll
+E:\VS2017 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.csprojAssemblyReference.cache
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\bin\Debug\Boat_FromNet.exe.config
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.BOATLOCATIONLib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.COMPASSLib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.RATEOFTURNLib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.RPMLib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.RUDERANGLELib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.STARTAIRLib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.BOATLOCATIONLib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.COMPASSLib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.RATEOFTURNLib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.RPMLib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.RUDERANGLELib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.STARTAIRLib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.csproj.ResolveComReference.cache
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.exe
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.pdb
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\bin\Debug\Boat_FromNet.exe
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\bin\Debug\Boat_FromNet.pdb
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\bin\Debug\Interop.BOATLOCATIONLib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\bin\Debug\Interop.COMPASSLib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\bin\Debug\Interop.RATEOFTURNLib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\bin\Debug\Interop.RPMLib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\bin\Debug\Interop.RUDERANGLELib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\bin\Debug\Interop.STARTAIRLib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\bin\Debug\AxInterop.BOATLOCATIONLib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\bin\Debug\AxInterop.COMPASSLib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\bin\Debug\AxInterop.RATEOFTURNLib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\bin\Debug\AxInterop.RPMLib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\bin\Debug\AxInterop.RUDERANGLELib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\bin\Debug\AxInterop.STARTAIRLib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.Form1.resources
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.Properties.Resources.resources
+E:\VS2013 Space\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.csproj.GenerateResource.Cache
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.BOATLOCATIONLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.COMPASSLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.RATEOFTURNLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.RPMLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.RUDERANGLELib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.STARTAIRLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.BOATLOCATIONLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.COMPASSLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.RATEOFTURNLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.RPMLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.RUDERANGLELib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.STARTAIRLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.csproj.ResolveComReference.cache
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.Form1.resources
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.Properties.Resources.resources
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.csproj.GenerateResource.cache
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.csproj.CoreCompileInputs.cache
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.exe
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.pdb
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.MSCommLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.MSCommLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Boat_FromNet.exe.config
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Boat_FromNet.exe
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Boat_FromNet.pdb
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Interop.BOATLOCATIONLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Interop.COMPASSLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Interop.MSCommLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Interop.RATEOFTURNLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Interop.RPMLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Interop.RUDERANGLELib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Interop.STARTAIRLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Interop.UnityWebPlayerAXLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\AxInterop.BOATLOCATIONLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\AxInterop.COMPASSLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\AxInterop.MSCommLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\AxInterop.RATEOFTURNLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\AxInterop.RPMLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\AxInterop.RUDERANGLELib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\AxInterop.STARTAIRLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\LAB\Desktop\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.csprojAssemblyReference.cache
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.BOATLOCATIONLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.COMPASSLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.MSCommLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.RATEOFTURNLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.RPMLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.RUDERANGLELib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.STARTAIRLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.BOATLOCATIONLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.COMPASSLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.MSCommLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.RATEOFTURNLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.RPMLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.RUDERANGLELib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.STARTAIRLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.csproj.ResolveComReference.cache
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.Form1.resources
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.Properties.Resources.resources
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.csproj.GenerateResource.cache
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.csproj.CoreCompileInputs.cache
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Boat_FromNet.exe.config
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.exe
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.pdb
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Boat_FromNet.exe
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Boat_FromNet.pdb
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Interop.BOATLOCATIONLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Interop.COMPASSLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Interop.MSCommLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Interop.RATEOFTURNLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Interop.RPMLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Interop.RUDERANGLELib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Interop.STARTAIRLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Interop.UnityWebPlayerAXLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\AxInterop.BOATLOCATIONLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\AxInterop.COMPASSLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\AxInterop.MSCommLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\AxInterop.RATEOFTURNLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\AxInterop.RPMLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\AxInterop.RUDERANGLELib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\AxInterop.STARTAIRLib.dll
+D:\201513138020\7.11C#完善版1\Boat_FromNet\Boat_FromNet\AxInterop.UnityWebPlayerAXLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.BOATLOCATIONLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.COMPASSLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.MSCommLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.RATEOFTURNLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.RPMLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.RUDERANGLELib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.STARTAIRLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.BOATLOCATIONLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.COMPASSLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.MSCommLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.RATEOFTURNLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.RPMLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.RUDERANGLELib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.STARTAIRLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.csproj.ResolveComReference.cache
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.Form1.resources
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.Properties.Resources.resources
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.csproj.GenerateResource.cache
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.csproj.CoreCompileInputs.cache
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Boat_FromNet.exe.config
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.exe
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.pdb
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Boat_FromNet.exe
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Boat_FromNet.pdb
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Interop.BOATLOCATIONLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Interop.COMPASSLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Interop.MSCommLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Interop.RATEOFTURNLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Interop.RPMLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Interop.RUDERANGLELib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Interop.STARTAIRLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\Interop.UnityWebPlayerAXLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\AxInterop.BOATLOCATIONLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\AxInterop.COMPASSLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\AxInterop.MSCommLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\AxInterop.RATEOFTURNLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\AxInterop.RPMLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\AxInterop.RUDERANGLELib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\AxInterop.STARTAIRLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\AxInterop.UnityWebPlayerAXLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\bin\Debug\Boat_FromNet.exe.config
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\bin\Debug\Boat_FromNet.exe
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\bin\Debug\Boat_FromNet.pdb
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\bin\Debug\Interop.BOATLOCATIONLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\bin\Debug\Interop.COMPASSLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\bin\Debug\Interop.MSCommLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\bin\Debug\Interop.RATEOFTURNLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\bin\Debug\Interop.RPMLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\bin\Debug\Interop.RUDERANGLELib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\bin\Debug\Interop.STARTAIRLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\bin\Debug\AxInterop.BOATLOCATIONLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\bin\Debug\AxInterop.COMPASSLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\bin\Debug\AxInterop.MSCommLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\bin\Debug\AxInterop.RATEOFTURNLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\bin\Debug\AxInterop.RPMLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\bin\Debug\AxInterop.RUDERANGLELib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\bin\Debug\AxInterop.STARTAIRLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+G:\新建文件夹\研究生学习资料\7.11C#完善版1\Boat_FromNet\Boat_FromNet\obj\Debug\Boat_FromNet.csprojAssemblyReference.cache
